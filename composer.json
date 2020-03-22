@@ -1,5 +1,5 @@
 {
-    "name": "composer/test-composer", // 包名
+    "name": "composer/composer", // 包名
     "description": "export mysql data table structure and comments",  // 关于这个包的描述
     "authors": [  // 这个包的作者的用户名称和邮箱
         {
