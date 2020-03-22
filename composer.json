@@ -1,6 +1,12 @@
 {
     "name": "composer-test-liubo/composer",
     "description": "export mysql data table structure and comments",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "minimum-stability": "dev",
+    "license": "MIT",
     "authors": [
         {
             "name": "liu66.net",
