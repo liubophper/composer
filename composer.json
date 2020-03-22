@@ -1,15 +1,6 @@
 {
     "name": "composer/test-composer", // 包名
     "description": "export mysql data table structure and comments",  // 关于这个包的描述
-    "keywords": [   // 关于这个包的关键字
-        "测试安装composer"
-    ],
-    "type": "library",  // 这个包的类型
-    "require": {
-        "php": ">=7.0"  // 依赖,这里的依赖要小心了, 如果有依赖其他项目的,需要写明版本
-    },
-    "minimum-stability": "dev",  // 版本
-    "license": "MIT",  // 协议, MIT 开源协议
     "authors": [  // 这个包的作者的用户名称和邮箱
         {
             "name": "liu66.net",
